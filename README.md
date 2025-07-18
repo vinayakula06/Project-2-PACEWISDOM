@@ -117,4 +117,4 @@ To set up and run the project locally, follow these steps:
     The Django admin interface is available at `http://127.0.0.1:8000/admin/`. Log in with the superuser credentials you created.
 
 ## Output File
-   Sample output resume pdf is mentioned above. 
+   Sample output resume pdf is shared above. 
