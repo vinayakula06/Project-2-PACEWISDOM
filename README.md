@@ -118,3 +118,7 @@ To set up and run the project locally, follow these steps:
 
 ## Output File
    Sample output resume pdf is shared above. 
+   
+## website interface 
+
+ <img width="2874" height="1634" alt="image" src="https://github.com/user-attachments/assets/37d20817-efec-4959-ab35-2eefbb29fe5a" />
